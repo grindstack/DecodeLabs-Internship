@@ -1,8 +1,8 @@
 import streamlit as st
 from bot import get_response
 
-st.set_page_config(page_title="E-Commerce Chatbot", page_icon="🛒")
-st.title("🛒 E-Commerce Assistant")
+st.set_page_config(page_title="OrderIQ - E-Commerce Chatbot", page_icon="🛒")
+st.title("🛒 OrderIQ - E-Commerce Chatbot")
 st.caption("Ask me about orders, products, coupons, revenue, or referrals.")
 
 if "messages" not in st.session_state:
