@@ -1,0 +1,21 @@
+job_role,skills
+Data Scientist,Python Machine Learning SQL Statistics Deep Learning Data Analysis NumPy Pandas Matplotlib TensorFlow
+ML Engineer,Python TensorFlow PyTorch Machine Learning Deep Learning MLOps Docker Kubernetes Model Deployment
+Data Analyst,SQL Excel Power BI Tableau Data Visualization Statistics Python Pandas Reporting Dashboard
+Backend Developer,Python Java SQL REST API Django Flask Node.js Docker PostgreSQL Git
+Frontend Developer,JavaScript React HTML CSS TypeScript Redux UI UX Responsive Design Git
+DevOps Engineer,Docker Kubernetes AWS CI CD Linux Git Jenkins Terraform Monitoring Bash
+Cloud Architect,AWS Azure GCP Cloud Computing Docker Kubernetes Networking Security Infrastructure Terraform
+Cybersecurity Engineer,Network Security Ethical Hacking Penetration Testing Firewalls Linux Python Cryptography SIEM Incident Response
+Full Stack Developer,JavaScript React Node.js Python SQL REST API HTML CSS Docker Git
+AI Engineer,Python LangChain LLM Prompt Engineering RAG Vector Databases NLP TensorFlow API Integration
+Data Engineer,Python SQL Spark Hadoop ETL Airflow PostgreSQL AWS Data Pipelines Kafka
+NLP Engineer,Python NLP NLTK SpaCy Transformers BERT Text Classification Sentiment Analysis Hugging Face
+Computer Vision Engineer,Python OpenCV TensorFlow PyTorch Image Processing CNN Object Detection Deep Learning
+Blockchain Developer,Solidity Ethereum Smart Contracts Web3 JavaScript Cryptography Distributed Systems
+Mobile Developer,Flutter React Native Swift Kotlin Android iOS REST API Firebase Git
+Game Developer,Unity C++ C# OpenGL Game Design Physics Engine 3D Modeling Animation
+Robotics Engineer,Python ROS C++ Control Systems Sensors Computer Vision Embedded Systems MATLAB
+Research Scientist,Python R Statistics Machine Learning Deep Learning Academic Writing LaTeX Experimentation
+Product Manager,Agile Scrum Product Roadmap Stakeholder Management Data Analysis User Research JIRA Communication
+Database Administrator,SQL PostgreSQL MySQL Oracle Database Optimization Backup Recovery Performance Tuning
